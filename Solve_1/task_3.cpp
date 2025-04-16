@@ -1,3 +1,5 @@
+// Redistribute the values
+
 #include <iostream>
 
 using namespace std;
