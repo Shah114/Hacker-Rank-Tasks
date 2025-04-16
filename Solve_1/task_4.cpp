@@ -1,3 +1,5 @@
+// Determine whether it is an even number
+
 #include <iostream>
 
 using namespace std;
