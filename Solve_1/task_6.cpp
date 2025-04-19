@@ -1,3 +1,5 @@
+// Find the sum and product of its digits.
+
 #include <iostream>
 
 using namespace std;
