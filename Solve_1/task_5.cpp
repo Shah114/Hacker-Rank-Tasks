@@ -1,3 +1,5 @@
+// Print first its left digit, and then its right digit
+
 #include <iostream>
 
 using namespace std;
