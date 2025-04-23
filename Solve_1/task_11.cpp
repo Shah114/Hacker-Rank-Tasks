@@ -1,3 +1,5 @@
+// Reverse three-digit integer
+
 #include <iostream>
 
 using namespace std;
