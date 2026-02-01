@@ -1,3 +1,5 @@
+// Divisible Natural Numbers
+
 #include <cmath>
 #include <vector>
 #include <iostream>
