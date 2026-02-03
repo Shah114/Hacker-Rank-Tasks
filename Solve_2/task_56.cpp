@@ -1,3 +1,5 @@
+// Sum of Squares Representation
+
 #include <cmath>
 #include <iostream>
 
